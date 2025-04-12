@@ -1,4 +1,4 @@
-package hello.buildtest;
+package hello.dockerbuildtest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
